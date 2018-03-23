@@ -6,7 +6,7 @@
              NavigationPage.HasBackButton="False">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Page1 Cannot go back to Page1!!"
+            <Label Text="Page1 Cannot go back to MainPage!!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
             <Button Text="Go to Page 2" Clicked="Button_Clicked"
